@@ -1,4 +1,4 @@
-An all in one booking and rental website developed using flexbox.
+An all-in-one booking and rental website developed by CSS flexbox.
 
 From an online course of CSS and Sass.
 
